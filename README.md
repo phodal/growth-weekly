@@ -7,20 +7,19 @@ History
 Topics
 ---
 
-### Books
-
-### Projects
-
-### Articles
-
-### 点评
+ - 书籍
+ - 开源项目
+ - 软件
+ - 文章
+ - 时事点评
 
 
-Members
+Team Members
 ---
 
-Tech Lead: ![Phodal](https://github.com/phodal)
+Tech Lead: [Phodal](https://github.com/phodal)
 
+Next? You
 
 License
 ---
