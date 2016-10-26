@@ -1,11 +1,14 @@
 # Growth：增长工程师周刊
 
+**Growth Series**
 
-History
-----
+ - Growth APP：[http://growth.ren/](http://growth.ren/)
+ - Growth 论坛：[http://forum.growth.ren/](http://forum.growth.ren/)
+ - Growth 电子书：[全栈增长工程师指南](https://github.com/phodal/growth-ebook)、[全栈增长工程师实战](https://github.com/phodal/growth-in-action)
+ - Growth Studio(Coming soon)
+ - Growth 纸质书 (Coming soon)
 
-Topics
----
+**Topics**
 
  - 书籍
  - 开源项目
@@ -13,13 +16,16 @@ Topics
  - 文章
  - 时事点评
 
-
-Team Members
+Growth Studio
 ---
 
-Tech Lead: [Phodal](https://github.com/phodal)
+Founder && Tech Lead: [Phodal](https://github.com/phodal)
 
 Next? You
+
+History
+----
+
 
 License
 ---
