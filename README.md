@@ -22,6 +22,8 @@ Growth Studio
 
 Founder && Tech Lead: [Phodal](https://github.com/phodal)
 
+UX: [Liekkas Zhang](https://github.com/song-what)
+
 Next? You
 
 History
