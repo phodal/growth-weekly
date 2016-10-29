@@ -5,11 +5,13 @@ Growth：增长工程师周刊：如何从零到一
 开源项目
 ---
 
- - next.js
+ - [从零开始学编程系列汇总(从Α到Ω)](https://github.com/justjavac/Programming-Alpha-To-Omega)
+ - [JS stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 
 软件
 ---
 
+ - next.js
 
 文章
 ---
